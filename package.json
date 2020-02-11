@@ -1,0 +1,24 @@
+{
+  "name": "cypress-intermediate-course",
+  "version": "1.0.0",
+  "description": "Intermediate course of test automation with Cypress from the Talking About Testing school.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/wlsf82/cypress-intermediate-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/wlsf82/cypress-intermediate-course/issues"
+  },
+  "homepage": "https://gitlab.com/wlsf82/cypress-intermediate-course#readme",
+  "devDependencies": {
+    "cypress": "^4.0.1",
+    "faker": "^4.1.0"
+  }
+}
